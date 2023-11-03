@@ -1,0 +1,222 @@
+/*Extra small devices (portrait phones, less than 576px)------------------320*/
+@media (max-width: 575.98px) {
+
+	/*	Header Start*/
+.menu ul li a {
+    font-size: 17px;
+    padding: 6px 0 0 53px !important;
+}
+/*Slider Start*/
+.s_text {
+    margin-top: 0;
+}
+.s_h1 {
+    font-size: 25px;
+}
+.s_h2 {
+    font-size: 18px;
+    margin: 13px 0;
+    padding-right: 0;
+}
+.s_p {
+    margin-bottom: 35px;
+}
+.s_icon ul li i {
+    font-size: 35px;
+    margin-right: 25px;
+}
+/*feature Strat*/
+.c_padding {
+    padding-top: 45px;
+    padding-bottom: 60px;
+}
+.f_h1 {
+    font-size: 22px;
+    margin-bottom: 11px;
+}
+
+.f_p {
+    font-size: 16px;
+}
+.f_item {
+    margin-top: 30px;
+}
+.f_icon {
+    text-align: center;
+}
+.f_icon i {
+    font-size: 35px;
+}
+.f_text2 {
+    text-align: center;
+}
+.f_text2 h2 {
+    margin: 7px 0 11px 0;
+    font-size: 20px; 
+}
+.f_text2 p {
+    font-size: 15px;
+}
+/*Contact Us*/
+.c_input{
+    height: 45px;
+}
+.c_btn{
+    height: 45px;
+}
+/*Footer Start*/
+footer{
+    padding-bottom: 50px;
+}
+.add{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.foot_item{
+    text-align: center;
+}
+.lulli{
+    margin-top: 20px;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)--------------------------576*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*	Header Start*/
+.menu ul li a {
+    font-size: 18px;
+    padding: 6px 0 0 53px !important;
+}
+/*Slider Start*/
+.s_text {
+    margin-top: 0;
+}
+.s_h1 {
+    font-size: 25px;
+}
+.s_h2 {
+    font-size: 20px;
+    margin: 13px 0;
+    padding-right: 135px;
+}
+.s_p {
+    margin-bottom: 35px;
+}
+.s_icon ul li i {
+    font-size: 35px;
+    margin-right: 25px;
+}
+/*feature Strat*/
+.c_padding {
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+.f_p {
+    font-size: 16px;
+}
+.f_item {
+    margin-top: 45px;
+}
+.f_icon {
+    text-align: center;
+}
+.f_icon i {
+    font-size: 35px;
+}
+.f_text2 {
+    text-align: center;
+}
+.f_text2 h2 {
+    margin: 7px 0 11px 0;
+    font-size: 20px; 
+}
+/*Contact Us*/
+.c_input{
+    height: 50px;
+}
+.c_btn{
+    height: 50px;
+}
+/*Footer Start*/
+footer{
+    padding-bottom: 65px;
+}
+.add{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.foot_item{
+    text-align: center;
+}
+
+}
+
+/*Medium devices (tablets, 768px and up)----------------------------------768*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*	Header Strat*/
+.menu ul li a {
+    font-size: 20px;
+    padding: 8px 0px 0 53px !important;
+}
+/*Slider Start*/
+.s_text {
+    margin-top: 50px;
+}
+/*Feature Start*/
+.c_padding {
+    padding-top: 70px;
+    padding-bottom: 90px;
+}
+.f_item {
+    margin-top: 50px;
+}
+.f_icon i {
+    font-size: 38px;
+}
+.f_p {
+    padding: 0 50px;
+    font-size: 18px;
+}
+/*Contact Us*/
+.c_input{
+    height: 50px;
+}
+.c_btn{
+    height: 50px;
+}
+/*Footer Start*/
+footer{
+    padding-bottom: 80px;
+}
+}
+
+/*Large devices (desktops, 992px and up)---------------------------------1024*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*    Feature Start*/
+.c_padding {
+    padding-top: 90px;
+    padding-bottom: 100px;
+}
+/*Contact Us*/
+.c_input{
+    height: 50px;
+}
+.c_btn{
+    height: 50px;
+}
+}
+
+/*Extra Large devices (desktops, 1200px and up)--------------------------1200*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+/*Extra Extra large devices (large desktops, 1400px and up)--------------1400*/
+@media (min-width: 1400px) {
+/*    Slider Start*/
+.s_h2 {
+    padding-right: 135px !important;
+}
+}
